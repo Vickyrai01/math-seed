@@ -1,0 +1,4 @@
+[
+  { "topic": "sistemas_2x2", "difficulty": "media", "statement": "Resuelve el sistema: 2x + 3y = 7, x - y = 1", "answer": "x=2, y=1" },
+  { "topic": "ecuaciones_cuadraticas", "difficulty": "baja", "statement": "Resuelve: x^2 - 5x + 6 = 0", "answer": "x=2, x=3" }
+]
