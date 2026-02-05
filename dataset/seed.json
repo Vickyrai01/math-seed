@@ -1,4 +1,16 @@
 [
   { "topic": "sistemas_2x2", "difficulty": "media", "statement": "Resuelve el sistema: 2x + 3y = 7, x - y = 1", "answer": "x=2, y=1" },
   { "topic": "ecuaciones_cuadraticas", "difficulty": "baja", "statement": "Resuelve: x^2 - 5x + 6 = 0", "answer": "x=2, x=3" }
+  { "topic": "ecuaciones_lineales", "difficulty": "baja", "statement": "Determinen la ecuacion de la funcion lineal f sabiendo que f(1)=-1 y f(5)=3", "answer": "f(x) = -2x -2" }
+  { "topic": "ecuaciones_lineales", "difficulty": "baja", "statement": "Sea r la recta de ecuacion y = 2x - 1. Determinen, si existe, para que calor o valores de k ∈ R el punto (-k, k - 10)", "answer": "k = 3" }
+  { "topic": "ecuaciones_lineales", "difficulty": "media", "statement": "Determinen analiticamente la interseccion de las rectas f(x) = -2x+1", "answer": "f(x) = -2x -2" }
+  { "topic": "ecuaciones_lineales", "difficulty": "alta", "statement": "La recta L1 pasa por los puntos de coordenadas (1,2) y (3,8). Sea L2 la recta perpendicular a la recta de ecuacion x + 2y = 0 y que pasa por el punto (-1,-1). Hallar el punto de interseccion de las rectas L1 y L2", "answer": "(2,5)" }
+  { "topic": "ecuaciones_lineales", "difficulty": "alta", "statement": "La recta L1 pasa por los puntos cuyas coordenadas son (1,0) y (-1,-2). a) Determinar la ecuacion de la rectta L2 sabiendo que pasa por el punto (7,4) y forma un angulo de 90 con la recta L1. b) Calcular la interseccion de ambas rectas. ", "answer": "a) L2: y = -x + 11. b) L1 interseccion L2 = (6,5)" }
+  { "topic": "ecuaciones_lineales", "difficulty": "alta", "statement": "La recta L1 pasa por los puntos cuyas coordenadas son (1, -3) y (2,-1). a) Determinar la ecuacion de la recta L2 sabiendo que pasa por el punto (2,2) y es paralela a la recta de ecuacion y = -3x + 5. b) Calcular la interseccion de L1 con L2.", "answer": "a) L2: y = -3x + 8. b) L1 interseccion L2 = (13/5, 1,5)" }
+  { "topic": "ecuaciones_lineales", "difficulty": "alta", "statement": "Las rectas L1: 4x + 5y = 20, y L2: Ax + 8y = B son perpendiculares. Ademas se sabe que L2 pasa por el punto de coordenadas (1,2). Hallar los valores de A y de B", "answer": "A = -10, B = -6" }
+  { "topic": "ecuaciones_lineales", "difficulty": "alta", "statement": "La recta L1 pasa por el punto de coordenadas (-1, 2) y es paralela a la recta de ecuacion -x + 2y = 1. La recta L2 pasa por los puntos de coordenadas (-1,12) y (3,4). Determinar el punto de interseccion entre L1 y L2", "answer": "(1,8)" }
+  { "topic": "ecuaciones_lineales", "difficulty": "alta", "statement": "Las rectas L1 y L2 se intersectan en el punto P(1,3) y son perpendiculares entre si. Sabiendo que L1 pasa por el punto Q(-1,2) y que A es el punto de interseccion de L2 con el eje x, determinar la distancia de P a A", "answer": "d(p,a) = (3√5)/2" }
+  { "topic": "ecuaciones_lineales", "difficulty": "alta", "statement": "Dado el triangulo ABC donde A(-3,-1), B(2,8) y C(5,2), determinar la ecuacion de la recta que contiene a la altura correspondiente al lado BC", "answer": "y = x/2 + 1/2" }
+  { "topic": "ecuaciones_lineales", "difficulty": "alta", "statement": "Hallar la ecuacion de la recta cuyos puntos equidostan de los puntos A(3,2) y B(-1,4)", "answer": "y = 2x + 1" }
+  
 ]
